@@ -7,15 +7,15 @@
     tools:context=".HomeActivity">
 
     <TextView
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent"
-        android:text="@string/nnama_fabin_wantara_nnim_32602000026_n"
+        android:text="Fabin Wantara\n32602000026"
         android:textAlignment="center"
-        android:textSize="30sp"
-        android:lineSpacingExtra="16dp"
-        android:textColor="@color/black"
-        android:background="@android:color/holo_purple"
+        android:textSize="25dp"
+        android:lineSpacingExtra="1.5mm"
+        android:textColor="@color/white"
+        android:background="@android:color/black"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
